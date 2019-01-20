@@ -13,14 +13,19 @@ Hotel listing using Reactjs, this project was bootstrapped with [Create React Ap
 ## Running the App
 
 * Clone repo:
-```ssh
-git@github.com:mohamedmagdy5061/hotels365.git```
+```
+ssh git@github.com:mohamedmagdy5061/hotels365.git
+```
 
 * Install dependencies:
-```npm install```
+```
+npm install
+```
 
 * Start App
-```npm start```
+```
+npm start
+```
 
 * Open the application on http://localhost:3000
 
