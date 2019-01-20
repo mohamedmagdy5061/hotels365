@@ -1,33 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```## Hotels365
+Hotel listing using Reactjs, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
- Listing all hotels <br>
-Click on hotel to show details in same page <br>
-Change the number of nights and this will reflect on all hotels prices <br>
-Slide to view all hotel image <br>
-view all review about this hotel <br>
-Can sort review <br>
-Can see all revirew by pagination<br>
+* Listing all hotels.
+* Click on hotel to show details in same page.
+* Change the number of nights and this will reflect on all hotels prices.
+* Slide to view all hotel image.
+* view all review about this hotel.
+* Can sort review.
+* Can see all review by pagination.
 
-## Available Scripts
+## Running the App
 
-In the project directory, you can run:
-### `npm install`
-git clone of [git@github.com:mohamedmagdy5061/hotels365.git] and run nnmp install
-<br>
-### `npm start`
+* Clone repo:
+```ssh
+git@github.com:mohamedmagdy5061/hotels365.git```
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Install dependencies:
+```npm install```
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-<br>
+* Start App
+```npm start```
 
-### `npm run build`
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Open the application on http://localhost:3000
 
-### `Deployment`
-npm install -g serve <br>
-serve -s build  
+* Here is the live version: http://marvelous-fruit.surge.sh/
