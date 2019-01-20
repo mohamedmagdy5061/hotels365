@@ -14,7 +14,7 @@ Hotel listing using Reactjs, this project was bootstrapped with [Create React Ap
 
 * Clone repo:
 ```
-ssh git@github.com:mohamedmagdy5061/hotels365.git
+git clone git@github.com:mohamedmagdy5061/hotels365.git
 ```
 
 * Install dependencies:
