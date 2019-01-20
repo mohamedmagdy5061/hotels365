@@ -1,4 +1,4 @@
-```## Hotels365
+## Hotels365
 Hotel listing using Reactjs, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Features
